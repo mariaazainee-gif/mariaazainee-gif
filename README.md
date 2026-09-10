@@ -1,4 +1,5 @@
 ### Olá, eu sou Maria Zaine! ✨
+Estudante de Desenvolvimento de Sistemas e Análise e Desenvolvimento de Sistemas, atualmente estagiando com PHP e Bootstrap. Curiosa e sempre aprendendo algo novo!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BLZlmD%2FPVRu2TPfxDAIB8Aw%3D%3D)
 
