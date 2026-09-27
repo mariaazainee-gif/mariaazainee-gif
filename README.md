@@ -10,7 +10,7 @@
 - 💻 Atualmente estagiando na **Prefeitura Municipal de Camaçari**, desenvolvendo o painel administrativo **GEPRO** com PHP e Bootstrap
 - 🧶 Fundadora da **EcoBee**, loja virtual de acessórios de crochê
 - 🌱 Curiosa e sempre aprendendo algo novo
-- 📫 Como me encontrar: [LinkedIn](#) · [Instagram da EcoBee](#)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/maria-zaine-7a060b180/) · [Instagram da EcoBee](https://www.instagram.com/ecobee.atelie/)
 
 ---
 
