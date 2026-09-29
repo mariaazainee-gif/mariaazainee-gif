@@ -29,14 +29,3 @@
 | **[EcoBee](#)** | Loja virtual de acessórios de crochê | — |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default" />
-</p>
-
-<p align="center">
-  <b>Cada linha de código é um passo em direção à inovação ⭐</b>
-</p>
